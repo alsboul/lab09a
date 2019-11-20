@@ -1,4 +1,4 @@
-    header {
+header {
     background: rgb(68, 68, 68);
     height: 100px;
   }
@@ -15,7 +15,7 @@
     float: left;
     margin-top: 40px;
     margin-right: 40px;
-    color: #bebebe;
+    color: #bbbbbb;
   }
   
   main {
@@ -23,8 +23,7 @@
     margin: 0 auto;
   }
   div.img {
-      
-    margin-top: 25px;
+      margin-top: 25px;
   }
   div.rihgt {
     float: left;
@@ -41,5 +40,15 @@
     margin-top: 25px;
     width: 33.33%;
   } 
+  div.imgp{
+    float: left;
+    margin-top: 25px;
+  }
+  div.text{
+    overflow: auto;
+    width: 400px;
+    height: 400px;
+  }
+
  
 
