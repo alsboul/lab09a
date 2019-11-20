@@ -22,36 +22,44 @@ header {
     width: 960px;
     margin: 0 auto;
   }
-  div.img {
-      margin-top: 25px;
+  div img {
+      margin-top: 20px;
   }
   div.rihgt {
     float: left;
-    margin-top: 25px;
+    margin-top: 20px;
     width: 33.33%;
   } 
   div.center {
     float: left;
-    margin-top: 25px;
+    margin-top: 20px;
     width: 33.33%;
   } 
   div.left {
     float: left;
-    margin-top: 25px;
+    margin-top: 20px;
     width: 33.33%;
   } 
   div.imgp{
-    float: left;
-    margin-top: 25px;
+     float: left; 
+    margin-top: 20px;
   }
   div.text{
+    float: left;
+    margin-left: 60px;
+    margin-top: 40px;
     overflow: auto;
     width: 400px;
     height: 400px;
   }
   footer {
-    margin-top: 25px;
+    margin-top: 50px;
     background: rgb(68, 68, 68);
-    height: 80px;
+    height: 100px;
+  }
+  button{
+      margin-left: 55px;
+      background-color: black;
+      color:white
   }
 
