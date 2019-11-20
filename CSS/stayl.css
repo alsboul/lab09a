@@ -1,0 +1,21 @@
+  div {
+    border: 1px solid;
+    background-color: darkgrey;
+  }
+  header {
+    background: rgb(61, 61, 61);
+    height: 90px;
+  }
+  
+  nav img {
+    float: left;
+    margin-top: 15px;
+    margin-right: 30px;
+  }
+  nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding:10px;
+    margin-top: 40px;
+    margin-right: 75px;
+  }
