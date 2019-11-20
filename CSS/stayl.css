@@ -23,7 +23,23 @@
     margin: 0 auto;
   }
   div.img {
+      
     margin-top: 25px;
   }
-  
-  
+  div.rihgt {
+    float: left;
+    margin-top: 25px;
+    width: 33.33%;
+  } 
+  div.center {
+    float: left;
+    margin-top: 25px;
+    width: 33.33%;
+  } 
+  div.left {
+    float: left;
+    margin-top: 25px;
+    width: 33.33%;
+  } 
+ 
+
